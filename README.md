@@ -23,3 +23,19 @@ Salah satu algoritma yang dapat digunakan adalah:
 
 Penerapan AI dalam monitoring dan diagnosis pasien secara real-time membawa manfaat besar. Ini dapat mengidentifikasi masalah kesehatan lebih cepat, mengurangi risiko kesalahan manusia, dan mengoptimalkan penggunaan sumber daya kesehatan. Namun, ada juga beberapa tantangan yang perlu diatasi, termasuk privasi data pasien, ketepatan diagnosis, dan regulasi yang ketat[6].
 Dalam kesimpulan, AI telah mengubah cara perawatan kesehatan dilakukan dengan memungkinkan pemantauan dan diagnosis pasien secara real-time yang lebih efisien. Ini adalah langkah penting menuju perawatan kesehatan yang lebih personal, presisi, dan terjangkau. Meskipun masih ada beberapa kendala yang harus diatasi, perkembangan dalam AI memberikan harapan untuk masa depan yang lebih sehat.
+
+**Referensi**
+
+[1]	M. A. Abdussyukur, “Menganalisa Pengaruh Implementasi Artificial Intelegence,” Pros. SAINTEK Sains dan Teknol., vol. 2, no. 1, pp. 185–192, 2023, [Online]. Available: https://www.jurnal.pelitabangsa.ac.id/index.php/SAINTEK/article/view/2152.
+
+[2]	A. Prasetyo and D. H. Prananingrum, “Disrupsi Layanan Kesehatan Berbasis Telemedicine: Hubungan Hukum Dan Tanggung Jawab Hukum Pasien Dan Dokter,” Refleks. Huk. J. Ilmu Huk., vol. 6, no. 2, pp. 225–246,   2022, doi: 10.24246/jrh.2022.v6.i2.p225-246.
+
+[3]	Y. P. Bria, E. A. S. Takung, J. T. Informatika, F. Teknik, U. Katolik, and W. Mandira, “Pengembangan Sistem Pakar Diagnosis Penyakit Tuberculosis Dan Demam Berdarah Berbasis Web,” vol. 2015, no. Sentika, pp. 271–276, 2015.
+
+[4]	A. Sembiring, S. Rahman, D. Siregar, and M. Zen, “Analisis Perbandingan Akurasi Pre-Trained Convolutional Neural Network Untuk Klasifikasi Kelompok Usia Pengunjung Rumah Sakit,” vol. 4, no. 2, pp. 515–521, 2023, doi: 10.47065/josh.v4i2.2913.
+
+[5]	B. Oxy, E. Andriyansyah, and I. Hariyanti, “IMPLEMENTASI RECURRENT NEURAL NETWORK UNTUK DETEKSI DETAK Keywords : Heartbeat , Application , Facial Digital Image Processing , Recurrent neural network,” vol. 17, pp. 11–18, 2022.
+
+[6]	R. D. RUSNAWATI and T. S. HARIYATI, “Implementasi Internet OF THINGS PADA LAYANAN kESEHATAN (LITERATURE REVIEW),” J. Innov. Reseach Knowl., vol. 3471, no. 8, pp. 569–574, 2022.
+
+
